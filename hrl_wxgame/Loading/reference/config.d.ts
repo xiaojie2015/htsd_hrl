@@ -1,0 +1,1 @@
+declare let hitalk_config: { loginServer: string,loginTestServer: string,resource:string,resourceTest:string,resourceFormal:string,ishttps:boolean,errorReport:string,openid:string,isqqgame:boolean};
